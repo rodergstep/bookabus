@@ -1,0 +1,15 @@
+<svg width="28" height="26" viewBox="0 0 28 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>ic_stars</title>
+<g id="Canvas" transform="translate(-979 -1538)">
+<g id="ic_stars">
+<g id="Icon 24px">
+<g id="star">
+<use xlink:href="#path0_fill" transform="translate(979.667 1538.67)" fill="#F99D0B"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 21.5733 25.3333L 19.3933 15.9613L 26.6667 9.65867L 17.0787 8.836L 13.3333 0L 9.588 8.836L 0 9.65867L 7.27333 15.9613L 5.09333 25.3333L 13.3333 20.3627L 21.5733 25.3333Z"/>
+</defs>
+</svg>
